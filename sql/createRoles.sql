@@ -1,0 +1,1 @@
+CREATE ROLE credentials_app WITH LOGIN PASSWORD '';
